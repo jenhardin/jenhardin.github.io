@@ -13,12 +13,12 @@ people:
   pic: 1
   position: 
   social:
-    - title: GitHub
+    - title: github
       url: https://github.com/jenhardin
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/jennifer-hardin-pdx/
+    - title: instagram
+      url: https://www.instagram.com/jennhardin/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
