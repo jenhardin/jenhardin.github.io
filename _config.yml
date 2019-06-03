@@ -2,19 +2,19 @@ url: https://jenhardin.github.io
 baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Jen Hardin
+email: jennifer@jenniferhardin.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jen Hardin
   pic: 1
-  position: Lead Designer
+  position: Software Developer
   social:
-    - title: twitter
-      url: #
+    - title: GitHub
+      url: #https://github.com/jenhardin
     - title: facebook
       url: #
     - title: stack-overflow
