@@ -35,7 +35,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 
-  - line: Portland, OR 97266
+  - line: Portland, OR
 
 # Build settings
 markdown: kramdown
