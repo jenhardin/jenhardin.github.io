@@ -4,9 +4,9 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2019-05-28
-img: cinemas.jpg
+img: cinemas.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
+alt: cinemas
 project-date: May 2019
 client: The Tech Academy
 category: Web Development
