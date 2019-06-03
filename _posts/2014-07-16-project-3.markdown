@@ -1,15 +1,15 @@
 ---
-title: Golden
+title: Login Page
 subtitle: Website Design
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2019-05-15
+img: login.png
+thumbnail: login-thumbnail.png
+alt: login page
+project-date: May 2019
+client: The Tech Academy
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Assignment for HTML & CSS Course
 
 ---
