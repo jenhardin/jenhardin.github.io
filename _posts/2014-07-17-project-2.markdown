@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2019-05-20
 img: spacestation.png
-thumbnail: spacestation-thumbnail.png
+thumbnail: spacestation_thumbnail.png
 alt: space station
 project-date: May 2019
 client: The Tech Academy
