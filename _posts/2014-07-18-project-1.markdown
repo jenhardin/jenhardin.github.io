@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2019-05-28
 img: cinemas.png
-thumbnail: dreams-thumbnail.png
+thumbnail: cinemas.png
 alt: cinemas
 project-date: May 2019
 client: The Tech Academy
