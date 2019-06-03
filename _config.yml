@@ -9,12 +9,12 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Jen Hardin
+- name: 
   pic: 1
-  position: Software Developer
+  position: 
   social:
     - title: GitHub
-      url: #https://github.com/jenhardin
+      url: https://github.com/jenhardin
     - title: facebook
       url: #
     - title: stack-overflow
