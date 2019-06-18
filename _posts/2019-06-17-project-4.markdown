@@ -1,15 +1,15 @@
 ---
-title: Login Page
+title: Pizza Menu
 subtitle: Website Design
 layout: default
-modal-id: 3
-date: 2019-05-15
-img: login.png
-thumbnail: login_thumbnail.png
-alt: login page
+modal-id: 2
+date: 2019-06-17
+img: FantasyPizza.png
+thumbnail: FantasyPizza_thumbnail.png
+alt: Pizza Menu
 project-date: May 2019
 client: The Tech Academy
 category: Web Development
-description: Assignment for HTML & CSS Course
+description: Assignment for Javascript Course
 
 ---
