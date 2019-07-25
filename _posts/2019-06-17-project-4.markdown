@@ -9,7 +9,7 @@ thumbnail: hotel_thumbnail.png
 alt: Pizza Menu
 project-date: June 2019
 client: The Tech Academy
-category: Python
+category: Web Development
 description: Assignment for Python Course
 
 ---
