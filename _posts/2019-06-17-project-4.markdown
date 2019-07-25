@@ -1,15 +1,15 @@
 ---
-title: Pizza Menu
+title: Hotel Menu Submissions
 subtitle: Website Design
 layout: default
-modal-id: 4
-date: 2019-06-17
-img: FantasyPizza.png
-thumbnail: FantasyPizza_thumbnail.png
+modal-id: 5
+date: 2019-07-23
+img: hotel.png
+thumbnail: hotel_thumbnail.png
 alt: Pizza Menu
 project-date: June 2019
 client: The Tech Academy
-category: Web Development
-description: Assignment for Javascript Course
+category: Python
+description: Assignment for Python Course
 
 ---

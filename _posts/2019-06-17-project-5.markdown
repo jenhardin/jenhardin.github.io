@@ -1,0 +1,15 @@
+---
+title: Pizza Menu
+subtitle: Website Design
+layout: default
+modal-id: 4
+date: 2019-06-17
+img: FantasyPizza.png
+thumbnail: FantasyPizza_thumbnail.png
+alt: Pizza Menu
+project-date: June 2019
+client: The Tech Academy
+category: Web Development
+description: Assignment for Javascript Course
+
+---
