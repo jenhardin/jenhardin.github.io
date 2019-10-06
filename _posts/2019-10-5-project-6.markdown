@@ -1,0 +1,15 @@
+---
+title: Magic the Gathering
+subtitle: Website Design
+layout: default
+modal-id: 4
+date: 2019-06-17
+img: magic.png
+thumbnail: magic_thumbnail.png
+alt: Magic the Gathering
+project-date: October 2019
+client: The Tech Academy
+category: Web Development
+description: Assignment for C# Course
+
+---
