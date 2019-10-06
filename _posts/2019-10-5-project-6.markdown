@@ -2,7 +2,7 @@
 title: Magic the Gathering
 subtitle: Website Design
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2019-06-17
 img: magic.png
 thumbnail: magic_thumbnail.png
